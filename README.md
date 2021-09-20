@@ -9,7 +9,7 @@ Asp.Net,
 C#,
 HTML,
 CSS3,
-Bootstarp,
+Bootstrap,
 JavaScript
 
 Serviços usados:
