@@ -1,0 +1,6 @@
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Domain\bin\Debug\App.Domain.dll
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Domain\bin\Debug\App.Domain.pdb
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Domain\obj\Debug\App.Domain.csprojAssemblyReference.cache
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Domain\obj\Debug\App.Domain.csproj.CoreCompileInputs.cache
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Domain\obj\Debug\App.Domain.dll
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Domain\obj\Debug\App.Domain.pdb

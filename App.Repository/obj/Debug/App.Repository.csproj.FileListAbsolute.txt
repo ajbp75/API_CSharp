@@ -1,0 +1,9 @@
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\bin\Debug\App.Repository.dll
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\bin\Debug\App.Repository.pdb
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\bin\Debug\App.Domain.dll
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\bin\Debug\App.Domain.pdb
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\obj\Debug\App.Repository.csprojAssemblyReference.cache
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\obj\Debug\App.Repository.csproj.CoreCompileInputs.cache
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\obj\Debug\App.Repository.csproj.CopyComplete
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\obj\Debug\App.Repository.dll
+E:\Fontes\CSharp\API_Exemplo\WebApp\App.Repository\obj\Debug\App.Repository.pdb
