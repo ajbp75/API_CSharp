@@ -5,16 +5,16 @@ Este é um exemplo de como se fazer uma API e como usar no front.
 
 Linguagenbs usadas:
 
-Asp.Net
-C#
-HTML
-CSS3
-Bootstarp
+Asp.Net,
+C#,
+HTML,
+CSS3,
+Bootstarp,
 JavaScript
 
 Serviços usados:
 
-Swagger
-Owin
-Auth
-Oauth
+Swagger,
+Owin,
+Auth,
+Oauth,
